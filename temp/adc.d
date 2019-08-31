@@ -1,0 +1,11 @@
+..\temp\adc.o: ..\HARDWARE\adc\adc.c
+..\temp\adc.o: ..\HARDWARE\adc\adc.h
+..\temp\adc.o: ..\SYSTEM\sys\sys.h
+..\temp\adc.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\temp\adc.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\temp\adc.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\temp\adc.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\temp\adc.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\temp\adc.o: ..\HARDWARE\LED\led.h
+..\temp\adc.o: ..\SYSTEM\delay\delay.h
+..\temp\adc.o: D:\Keil\ARM\RV31\INC\math.h

@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "..\temp\stm32f10x.o" "..\temp\test.o" "..\temp\delay.o" "..\temp\sys.o" "..\temp\usart.o" "..\temp\led.o" "..\temp\key.o" "..\temp\exti.o" "..\temp\timer.o" "..\temp\rtc.o" "..\temp\bz.o" "..\temp\adc.o" --strict --scatter "..\temp\TEST.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\TEST.map" -o "..\temp\TEST.axf"

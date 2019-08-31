@@ -1,0 +1,12 @@
+..\temp\exti.o: ..\HARDWARE\EXTI\exti.c
+..\temp\exti.o: ..\HARDWARE\EXTI\exti.h
+..\temp\exti.o: ..\SYSTEM\sys\sys.h
+..\temp\exti.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\temp\exti.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\temp\exti.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\temp\exti.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\temp\exti.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\temp\exti.o: ..\HARDWARE\LED\led.h
+..\temp\exti.o: ..\HARDWARE\KEY\key.h
+..\temp\exti.o: ..\SYSTEM\delay\delay.h
+..\temp\exti.o: ..\HARDWARE\TIMER\timer.h

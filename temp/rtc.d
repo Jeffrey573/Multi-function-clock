@@ -1,0 +1,9 @@
+..\temp\rtc.o: ..\HARDWARE\rtc\rtc.c
+..\temp\rtc.o: ..\HARDWARE\rtc\rtc.h
+..\temp\rtc.o: ..\SYSTEM\sys\sys.h
+..\temp\rtc.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\temp\rtc.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\temp\rtc.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\temp\rtc.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\temp\rtc.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\temp\rtc.o: ..\SYSTEM\delay\delay.h

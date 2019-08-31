@@ -1,0 +1,9 @@
+..\temp\key.o: ..\HARDWARE\KEY\key.c
+..\temp\key.o: ..\HARDWARE\KEY\key.h
+..\temp\key.o: ..\SYSTEM\sys\sys.h
+..\temp\key.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\temp\key.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\temp\key.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\temp\key.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\temp\key.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\temp\key.o: ..\SYSTEM\delay\delay.h

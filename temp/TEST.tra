@@ -1,0 +1,30 @@
+*** Creating Trace Output File '..\temp\TEST.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\temp\stm32f10x.o"'
+### List of Objects: adding '"..\temp\test.o"'
+### List of Objects: adding '"..\temp\delay.o"'
+### List of Objects: adding '"..\temp\sys.o"'
+### List of Objects: adding '"..\temp\usart.o"'
+### List of Objects: adding '"..\temp\led.o"'
+### List of Objects: adding '"..\temp\key.o"'
+### List of Objects: adding '"..\temp\exti.o"'
+### List of Objects: adding '"..\temp\timer.o"'
+### List of Objects: adding '"..\temp\rtc.o"'
+### List of Objects: adding '"..\temp\bz.o"'
+### List of Objects: adding '"..\temp\adc.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\temp\stm32f10x.o" "..\temp\test.o" "..\temp\delay.o" "..\temp\sys.o" "..\temp\usart.o" "..\temp\led.o" "..\temp\key.o" "..\temp\exti.o" "..\temp\timer.o" "..\temp\rtc.o" "..\temp\bz.o" "..\temp\adc.o" --strict --scatter "..\temp\TEST.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\TEST.map" -o "..\temp\TEST.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\temp\TEST.axf'
+### ADS-LD Command File: '..\temp\TEST.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\temp\TEST.lnp', Handle=0x000004D4
+### Writing '.lnp' file
+### ADS-LD Command file '..\temp\TEST.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,9 @@
+..\temp\wdg.o: ..\HARDWARE\WDG\wdg.c
+..\temp\wdg.o: ..\HARDWARE\WDG\wdg.h
+..\temp\wdg.o: ..\SYSTEM\sys\sys.h
+..\temp\wdg.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\temp\wdg.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\temp\wdg.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\temp\wdg.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\temp\wdg.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\temp\wdg.o: ..\HARDWARE\LED\led.h

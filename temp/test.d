@@ -1,0 +1,17 @@
+..\temp\test.o: test.c
+..\temp\test.o: ..\SYSTEM\sys\sys.h
+..\temp\test.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\temp\test.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\temp\test.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\temp\test.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\temp\test.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\temp\test.o: ..\SYSTEM\usart\usart.h
+..\temp\test.o: D:\Keil\ARM\RV31\INC\stdio.h
+..\temp\test.o: ..\SYSTEM\delay\delay.h
+..\temp\test.o: ..\HARDWARE\LED\led.h
+..\temp\test.o: ..\HARDWARE\KEY\key.h
+..\temp\test.o: ..\HARDWARE\exti\exti.h
+..\temp\test.o: ..\HARDWARE\TIMER\timer.h
+..\temp\test.o: ..\HARDWARE\rtc\rtc.h
+..\temp\test.o: ..\HARDWARE\adc\adc.h
+..\temp\test.o: ..\HARDWARE\bz\bz.h
